@@ -1,0 +1,92 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+中視新聞 | 新聞 | https://i.ytimg.com/vi/TCnaIE_SAtM/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+
+台視新聞 | 新聞 | https://i.ytimg.com/vi/xL0ch83RAK8/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=xL0ch83RAK8
+
+公視新聞 | 新聞 | https://i.ytimg.com/vi/quwqlazU-c8/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=quwqlazU-c8
+
+民視新聞 | 新聞 | https://i.ytimg.com/vi/ylYJSBUgaMA/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+
+東森財經新聞 | 新聞 | https://i.ytimg.com/vi/WHEPzbFA3hw/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=WHEPzbFA3hw
+
+東森新聞 | 新聞 | https://i.ytimg.com/vi/2dfAzcDf8Zg/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=2dfAzcDf8Zg
+
+中天新聞 | 新聞 | https://i.ytimg.com/vi/oIgbl7t0S_w/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=oIgbl7t0S_w
+
+寰宇新聞 | 新聞 | https://i.ytimg.com/vi/6IquAgfvYmc/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=6IquAgfvYmc
+
+三立新闻台 | 新聞 | https://i.ytimg.com/vi/CKjSm5ZeehE/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=CKjSm5ZeehE
+
+TVBS新聞 | 新聞 | https://i.ytimg.com/vi/m_dhMSvUCIc/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+
+鏡新聞 | 新聞 | https://i.ytimg.com/vi/5n0y6b0Q25o/hqdefault_live.jpg |
+https://www.youtube.com/channel/UC4LjkybVKXCDlneVXlKAbmw/live
+
+東森幼幼台 | 綜合 | https://i.ytimg.com/vi/6UHAm9rMZTo/hqdefault_live.jpg |
+https://www.youtube.com/c/yoyotvebc/live
+
+KPOP | 綜合 | https://i.ytimg.com/vi/JVocS7Yftw8/hqdefault_live.jpg |
+https://www.youtube.com/channel/UCoRXPcv8XK5fAplLbk9PTww/live
+
+網路流行音樂電台 | 綜合 | https://i.ytimg.com/vi/IfNMuFqKBWs/hqdefault_live.jpg |
+https://www.youtube.com/channel/UCcHWhgSsMBemnyLhg6GL1vA/live
+
+經典元宇宙直播 | 綜合 | https://i.ytimg.com/vi/ZxluW--lZpk/hqdefault_live.jpg |
+https://www.youtube.com/channel/UCJCg4enuciH7IlFIBaJ_NEQ/live
+
+大愛一台 | 綜合 | https://i.ytimg.com/vi/MIqUplvSRWA/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=MIqUplvSRWA
+
+大愛二台 | 綜合 | https://i.ytimg.com/vi/DTNkEm6jaqQ/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=DTNkEm6jaqQ
+
+MOMO購物一台 | 購物 | https://i.ytimg.com/vi/_pZQ1Lk0xMA/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=_pZQ1Lk0xMA
+
+MOMO購物二台 | 購物 | https://i.ytimg.com/vi/xbNWkUyxQGM/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=xbNWkUyxQGM
+
+美好購物1台 | 購物 | https://i.ytimg.com/vi/7IyxOiGMLgw/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=7IyxOiGMLgw
+
+美好購物2台 | 購物 | https://i.ytimg.com/vi/lEXITHxcagI/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=lEXITHxcagI
+
+東森購物46台 | 購物 | https://i.ytimg.com/vi/Z50JFuNgvB0/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=Z50JFuNgvB0
+
+東森購物60台 | 購物 | https://i.ytimg.com/vi/u0NYyH3ZesE/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=u0NYyH3ZesE
+
+飢餓遊戲 | 綜合 | https://i.ytimg.com/vi/A98LJq71BZg/hqdefault_live.jpg |
+https://www.youtube.com/channel/UCriy3vlLtiBov3nLdPLadUg/live
+
+天才衝衝衝 | 綜合 | https://i.ytimg.com/vi/YxgOStoW-bU/hqdefault_live.jpg |
+https://www.youtube.com/channel/UCdpxNQgqL3276yjrK03gMXA/live
+
+我們這一家 | 動漫 | https://i.ytimg.com/vi/UK81GCw1KE8/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=UK81GCw1KE8
+
+中華一番！ | 動漫 | https://i.ytimg.com/vi/2FJcu6qsM2k/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=2FJcu6qsM2k
+
+間諜家家酒 | 動漫 | https://i.ytimg.com/vi/k3-KZj5vhBc/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=k3-KZj5vhBc
+
+Winter Wildlife in 4K UHD - Polar Park Nature Relaxation Video | 4K | https://i.ytimg.com/vi/OXtHz9giTwI/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=OXtHz9giTwI
+
+Canada Winter Serenity - Nature Relaxation Flm with Calming Music | 4K | https://i.ytimg.com/vi/xscII7d04d0/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=xscII7d04d0
