@@ -7,6 +7,9 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 台視新聞 | 新聞 | https://i.ytimg.com/vi/xL0ch83RAK8/hqdefault_live.jpg |
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
+華視新聞 | 新聞 | https://i.ytimg.com/vi/wM0g8EoUZ_E/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+
 公視新聞 | 新聞 | https://i.ytimg.com/vi/quwqlazU-c8/hqdefault_live.jpg |
 https://www.youtube.com/watch?v=quwqlazU-c8
 
@@ -37,8 +40,8 @@ https://www.youtube.com/channel/UC4LjkybVKXCDlneVXlKAbmw/live
 東森幼幼台 | 綜合 | https://i.ytimg.com/vi/-1sTm3t6x3o/hqdefault_live.jpg |
 https://www.youtube.com/c/yoyotvebc/live
 
-KPOP | 音樂 | https://i.ytimg.com/vi/JVocS7Yftw8/hqdefault_live.jpg |
-https://www.youtube.com/channel/UCoRXPcv8XK5fAplLbk9PTww/live
+大陸尋奇 | 綜合 | https://i.ytimg.com/vi/fl1iFkAWcVU/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=fl1iFkAWcVU
 
 大愛一台 | 綜合 | https://i.ytimg.com/vi/MIqUplvSRWA/hqdefault_live.jpg |
 https://www.youtube.com/watch?v=MIqUplvSRWA
@@ -64,11 +67,20 @@ https://www.youtube.com/watch?v=Z50JFuNgvB0
 東森購物60台 | 購物 | https://i.ytimg.com/vi/u0NYyH3ZesE/hqdefault_live.jpg |
 https://www.youtube.com/watch?v=u0NYyH3ZesE
 
+KPOP | 音樂 | https://i.ytimg.com/vi/JVocS7Yftw8/hqdefault_live.jpg |
+https://www.youtube.com/channel/UCoRXPcv8XK5fAplLbk9PTww/live
+
 飢餓遊戲 | 綜藝 | https://i.ytimg.com/vi/A98LJq71BZg/hqdefault_live.jpg |
 https://www.youtube.com/channel/UCriy3vlLtiBov3nLdPLadUg/live
 
 天才衝衝衝 | 綜藝 | https://i.ytimg.com/vi/YxgOStoW-bU/hqdefault_live.jpg |
 https://www.youtube.com/channel/UCdpxNQgqL3276yjrK03gMXA/live
 
+綜藝大熱門 | 綜藝 | https://i.ytimg.com/vi/-L9cBf3oAO0/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=-L9cBf3oAO0
+
 琅琊榜 | 戲劇 | https://i.ytimg.com/vi/u1uU2AzsD0k/hqdefault_live.jpg |
-https://www.youtube.com/watch?v=u1uU2AzsD0k&ab_channel=GTVDRAMA%E5%85%AB%E5%A4%A7%E5%8A%87%E6%A8%82%E9%83%A8
+https://www.youtube.com/watch?v=u1uU2AzsD0k
+
+都挺好 | 戲劇 | https://i.ytimg.com/vi/gYtxIP4i8CA/hqdefault_live.jpg |
+https://www.youtube.com/watch?v=gYtxIP4i8CA
